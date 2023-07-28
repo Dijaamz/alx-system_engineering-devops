@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Lists all processes
+# list all my currently running processes
 
-ps -a uf
+# source: https://linuxize.com/post/ps-command-in-linux/
+ps -auxf
